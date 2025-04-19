@@ -1,0 +1,12 @@
+Package: a0.ninjaframework.ios
+Name: Ninja Framework
+Depends: mobilesubstrate, me.jjolano.shadow
+Architecture: iphoneos-arm
+Description: Ninja Framework - A powerful cheat tool for Dead by Daylight Mobile. Features memory patching capabilities and an intuitive user interface for easy game modifications.
+Maintainer: AlexZero
+Author: AlexZero
+Icon: file:///Applications/StoreKitUIService.app/AppStore.png
+Section: Cheats
+Homepage: https://t.me/cruexgg
+Version: 13.5
+
